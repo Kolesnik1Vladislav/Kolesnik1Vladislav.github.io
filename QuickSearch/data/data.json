@@ -1,0 +1,114 @@
+[
+	{
+		"abbr": "DS",
+		"name": "Dolnoslaskie",
+		"capital": "Wroclaw",
+		"lat": "51,108",
+		"long": "17,039"
+	},
+	{
+		"abbr": "KP",
+		"name": "Kujawsko-Pomorskie",
+		"capital": "Bydgoszcz",
+		"lat": "53,130",
+		"long": "18,038"
+	},
+	{
+		"abbr": "LU",
+		"name": "Lubelskie",
+		"capital": "Lublin",
+		"lat": "51,218",
+		"long": "22,564"
+	},
+	{
+		"abbr": "LB",
+		"name": "Lubuskie",
+		"capital": "Gorzow Wielkopolski",
+		"lat": "52,731",
+		"long": "15,217"
+	},
+	{
+		"abbr": "LD",
+		"name": "Lodzkie",
+		"capital": "Lodz",
+		"lat": "51,75",
+		"long": "19,47"
+	},
+	{
+		"abbr": "MA",
+		"name": "Malopolskie",
+		"capital": "Krakow",
+		"lat": "50,047",
+		"long": "20,005"
+	},
+	{
+		"abbr": "MZ",
+		"name": "Mazowieckie",
+		"capital": "Warszawa",
+		"lat": "52,235",
+		"long": "21,042"
+	},
+	{
+		"abbr": "OP",
+		"name": "Opolskie",
+		"capital": "Opole",
+		"lat": "50,656",
+		"long": "17,931"
+	},
+	{
+		"abbr": "PK",
+		"name": "Podkarpackie",
+		"capital": "Rzeszow",
+		"lat": "50,04",
+		"long": "22,00"
+	},
+	{
+		"abbr": "PD",
+		"name": "Podlaskie",
+		"capital": "Bialystok",
+		"lat": "53,127",
+		"long": "23,156"
+	},
+	{
+		"abbr": "PM",
+		"name": "Pomorskie",
+		"capital": "Gdansk",
+		"lat": "54,35",
+		"long": "18,65"
+	},
+	{
+		"abbr": "SL",
+		"name": "Slaskie",
+		"capital": "Katowice",
+		"lat": "50,214",
+		"long": "19,008"
+	},
+	{
+		"abbr": "SK",
+		"name": "Swietokrzyskie",
+		"capital": "Kielce",
+		"lat": "50,854",
+		"long": "20,616"
+	},
+	{
+		"abbr": "WN",
+		"name": "Warminsko-Mazurskie",
+		"capital": "Olsztyn",
+		"lat": "53,83",
+		"long": "21,00"
+	},
+	{
+		"abbr": "WP",
+		"name": "Wielkopolskie",
+		"capital": "Poznan",
+		"lat": "52,41",
+		"long": "16,93"
+	},
+	{
+		"abbr": "ZP",
+		"name": "Zachodniopomorskie",
+		"capital": "Szczecin",
+		"lat": "53,430",
+		"long": "14,624"
+	}
+]
